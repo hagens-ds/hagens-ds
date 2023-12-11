@@ -2,7 +2,7 @@
 
 ### Olá! 👋
 
-Somos o Departamento de Ciência de Dados da Hagens, unindo arte e ciência. Nossa equipe de matemáticos e estatísticos desenvolve soluções personalizadas com tecnologias avançadas em nosso laboratório de inovação.
+Como o Departamento de Ciência de Dados da Hagens, combinamos a arte da análise com a precisão científica. Nossa equipe de especialistas em matemática e estatística trabalha incansavelmente no desenvolvimento de soluções customizadas, utilizando as mais avançadas tecnologias em nosso laboratório de inovação. Estamos comprometidos em transformar dados em insights valiosos para impulsionar o sucesso de nossos clientes.
 
 - 💻  Department of Data Science at [Hagens](https://hagens.com.br/)
 - 🌎  Based in Campinas, Brazil
