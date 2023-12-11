@@ -1,4 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F509DD&height=120&section=header"/>
+<h1 align="center">
+  <a
+    target="_blank"
+    href="https://hagens.com.br/"
+  >
+    <img
+      align="center"
+      alt="Hagens banner"
+      src="https://github.com/hagens-ds/advanced-data-integration/blob/main/adi_core/assets/img/hagens_banner_cover.jpeg?raw=true"
+      style="width:100%;"
+    />
+  </a>
+</h1>
 
 ### Hello there! 👋
 
