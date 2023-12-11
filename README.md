@@ -1,7 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F509DD&height=120&section=header"/>
 
-### Hi there 👋
+### Olá! 👋
 
+Somos o Departamento de Ciência de Dados da Hagens, unindo arte e ciência. Nossa equipe de matemáticos e estatísticos desenvolve soluções personalizadas com tecnologias avançadas em nosso laboratório de inovação.
+
+- 💻  Department of Data Science at [Hagens](https://hagens.com.br/)
+- 🌎  Based in Campinas, Brazil
+    
 <!--
 **hagens-ds/hagens-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
