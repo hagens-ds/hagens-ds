@@ -6,7 +6,7 @@
     <img
       align="center"
       alt="Hagens banner"
-      src="https://github.com/hagens-ds/advanced-data-integration/blob/main/adi_core/assets/img/hagens_banner_cover.jpeg?raw=true"
+      src="https://github.com/hagens-ds/advanced-data-integration/blob/main/app/assets/img/hagens_banner_cover.jpeg?raw=true"
       style="width:100%;"
     />
   </a>
